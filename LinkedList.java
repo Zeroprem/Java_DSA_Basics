@@ -107,9 +107,8 @@ public class LinkedList {
 		a.insert(1);
 		a.insert(2);
 		a.insertAt(1,11);
-		a.deleteAt(1);e
-		a.display();
-
+		a.deleteAt(1);
+		
 	}
 
 }
