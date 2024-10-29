@@ -1,10 +1,10 @@
 package Vinsys;
 
-
-class Node {
-    int data;
-    Node next;
-}
+//
+//class Node {
+//    int data;
+//    Node next;
+//}
 
 class CircularLinkedList {
     Node head;
